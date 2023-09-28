@@ -24,7 +24,7 @@ npm install xprezz
 Here's a basic example of how to use Xprez to create a simple HTTP server:
 
 ```javascript
-const Xprez = require("xprez");
+const Xprez = require("xprezz");
 
 const app = new Xprez();
 
