@@ -17,7 +17,7 @@ Xprez is a lightweight web framework inspired by Express.js, designed to simplif
 To use Xprez in your Node.js project, you can install it via npm:
 
 ```bash
-npm install xprez
+npm install xprezz
 ```
 
 ## Usage
